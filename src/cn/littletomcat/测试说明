@@ -1,0 +1,2 @@
+在浏览器中访问对应端口即可，地址和参数任意，tomcatDemo会取得地址和参数，并在控制台中打印。
+    测试地址例如：http://127.0.0.1:9090/index.html?name=zhangsan&psw=123
